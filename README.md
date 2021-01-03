@@ -8,7 +8,7 @@ Here is my view on the approach one should take [before jumping into modelling.]
 CarDekho.com is India's leading car search venture that helps users buy cars that are right for them.
 One of the useful information for the users would be to know the current price of used/new cars.
 
-My Goal from this project is to start understanding the end to end machine learning workflow. [Takeaways from the project](https://github.com/stimils2/car_selling_price_pred) 
+My Goal from this project is to understand the challanges of end to end machine learning workflow. [Takeaways from the project](https://github.com/stimils2/car_selling_price_pred) 
 
 ### [Calculate your car value now](https://carpredsp.herokuapp.com/)      
 
