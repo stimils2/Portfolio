@@ -24,6 +24,7 @@ The state of art NLP technique developed by Google known as Bidirectional Encode
 # Social Network Analysis
 ## 1)[Book Recommendation System - Amazon](https://github.com/stimils2/Book-Recommendations-Amazon)
 Use Amazon Product Co-purchase data to make Book Recommendations using Network Analysis.
+
 Please click on the header for the methodology description and the below links for code & data.
 
 [Github](https://github.com/stimils2/Book-Recommendations-Amazon/blob/master/recommendations.py) [Data](http://snap.stanford.edu/data/amazon-meta.html)
