@@ -2,7 +2,7 @@
 ## About Me 
 The two quotes below help me understand the data better:
 
-1) There are three kinds of lies - lies damned lies and statistics.(Mark Twain)
+1) There are three kinds of lies - lies, damned lies and statistics.(Mark Twain)
 2) Understanding of life begins with the understanding of patterns.(Fritjof Capra)
 
 ## Article on Medium
