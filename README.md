@@ -13,7 +13,7 @@ My Goal from this project is to understand the challanges of end to end machine 
 ### [Calculate your car value now](https://carpredsp.herokuapp.com/)      
 
 ## Natural Language Processing
-## 1)[Fake Job Prediction](https://github.com/stimils2/Fake-Job-Prediction-Using-BERT)
+## 1) [Fake Job Prediction](https://github.com/stimils2/Fake-Job-Prediction-Using-BERT)
 As we are dealing with large volume, velocity, and variety of data, the veracity, and the value we derive from it has been of prime importance. False information is easy to spread and can have a significant impact on genuine people or customers. Like other sectors, the job market has also been impacted by it.
 
 The state of art NLP technique developed by Google known as Bidirectional Encoder Representations from Transformers (BERT) is being used for this problem. BERT helps better understand the nuances and context of words in searches and better match those queries with more relevant results.
@@ -22,7 +22,7 @@ The state of art NLP technique developed by Google known as Bidirectional Encode
 
 
 # Social Network Analysis
-## 1)[Book Recommendation System - Amazon](https://github.com/stimils2/Book-Recommendations-Amazon)
+## 1) [Book Recommendation System - Amazon](https://github.com/stimils2/Book-Recommendations-Amazon)
 Use Amazon Product Co-purchase data to make Book Recommendations using Network Analysis.
 
 Please click on the header for the methodology description and the below links for code & data.
