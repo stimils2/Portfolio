@@ -6,7 +6,7 @@ Here is my view on the approach one should take [before jumping into modelling.]
 ## Machine Learning
 ## 1) [Predict the Selling Price of a Car](https://github.com/stimils2/car_selling_price_pred)
 CarDekho.com is India's leading car search venture that helps users buy cars that are right for them.
-One of the useful information for the users would be to take know the price of used/new cars.
+One of the useful information for the users would be to know the current price of used/new cars.
 
 My Goal from this project is to start understanding the end to end machine learning workflow. [Takeaways from the project](https://github.com/stimils2/car_selling_price_pred) 
 
