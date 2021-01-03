@@ -1,4 +1,10 @@
 # Portfolio
+## About Me 
+The two quotes below help me understand the data better:
+
+1) There are three kinds of lies - lies damned lies and statistics.(Mark Twain)
+2) Understanding of life begins with the understanding of patterns.(Fritjof Capra)
+
 ## Article on Medium
 At times, we are so busy thinking about models and metrics we fail to understand the problem and the data.
 Here is my view on the approach one should take [before jumping into modelling.](https://medium.com/@sandeeptimilsina/before-you-jump-into-modelling-2ca5b727dac2)
