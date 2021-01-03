@@ -1,5 +1,8 @@
 # Portfolio
 ## About Me 
+Hi, I am Sandeep. I made a transition from working as a Senior Software Engineer with Bank of America for 6 years to the field of data science and analytics.
+Reason: You need to know the data/domain before you deliver things of value to your users/clients.
+
 The two quotes below help me understand the data better:
 
 1) There are three kinds of lies - lies, damned lies and statistics.(Mark Twain)
