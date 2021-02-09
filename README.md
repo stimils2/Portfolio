@@ -1,4 +1,4 @@
-# Portfolio Of Sandeep Timilsina
+# Portfolio 
 ## About Me 
 Hi, I am Sandeep. I made a transition from working as a Senior Software Engineer with Bank of America for 6 years to the field of data science and analytics.
 I belive that you need to know the data/domain before you deliver things of value to your users/clients.
